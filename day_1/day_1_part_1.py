@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf8 -*-
 """
-Day 1 Problem from Advent of Code:
-
+Day 1 - Part 1
+Advent of Code
 """
 
 if __name__ == '__main__':
